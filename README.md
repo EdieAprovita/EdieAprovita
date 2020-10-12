@@ -10,9 +10,9 @@
  
  🌱I have great enthusiasm to create, develop and capture new ideas, with great experience in teamwork 
 
-🌱 Since I worked as a cook and the main key was to be able to work with different people 🌱at the same 
+🌱 Since I worked as a cook and the main key was to be able to work with different people at the same 
 
-🌱 Time, I decided to learn to be a web developer. With that knowledge I can capture ideas 🌱in this digital 
+🌱 Time, I decided to learn to be a web developer. With that knowledge I can capture ideas in this digital 
 
 🌱 Age and make them come true, I seek to work as a full stack with knowledge in  
 
