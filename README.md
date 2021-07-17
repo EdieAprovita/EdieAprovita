@@ -1,5 +1,5 @@
 # I´m a Web Developer that loves coding and create the most amazing app for the web
-## I use the MERN STACK as a Junior Full Stack Web Developer
+## I use the MERN STACK  Web Developer
 
  
  🌱I have great enthusiasm to create, develop and capture new ideas, with great experience in teamwork 
