@@ -1,11 +1,21 @@
-# I´m a Web Developer that loves coding and create the most amazing app for the web
-## I use the MERN STACK  Web Developer
+# Welcome to my Profile! 👋
 
- 
- 🌱I have great enthusiasm to create, develop and capture new ideas, with great experience in teamwork 
+## About Me
+I'm a passionate Full Stack Web Developer with a love for coding and a knack for creating amazing web applications using the MERN stack.
 
-🌱 Javascript, React.js, Node.js, MongoDB, HTML, CSS, Express, Mongoose to create ideas 
+## Skills
+- **Frontend**: JavaScript, React.js, HTML, CSS
+- **Backend**: Node.js, Express
+- **Database**: MongoDB, Mongoose
 
-🌱 That will help  the company , my great value lies in being able to learn different knowledge, 
+## What I Bring to the Table
+- 🌱 Enthusiastic about creating and developing new ideas
+- 🌱 Experienced in teamwork and collaboration
+- 🌱 Able to quickly learn and apply new technologies
+- 🌱 Strong problem-solving skills and attention to detail
+- 🌱 Committed to delivering high-quality, efficient code
 
-🌱 Be able to understand it, manage it and put it into practice
+## My Goal
+My goal as a Full Stack Software Developer is to leverage my skills and experience to create innovative solutions that add value to the company and make a positive impact on the world.
+
+Let's connect and build something amazing together! 🚀
